@@ -17,5 +17,5 @@ Updated by 04_JeradChen
 
 4) Evaluate and validate that the system's functionality meets the customer's requirements, standards and business needs before the final delivery.
  5) Customers & end-users.
-6) Blackbox.
+6) Blackbox..
 
